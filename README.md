@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Ramcharan2067
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ramcharan
+- 
+- 👀 I’m interested in ... learning🧑‍🎓
+- 
+- 🌱 I’m currently learning ... CS🧑‍💻
+- 
+- 💞️ I’m looking to collaborate with ... you👋
+- 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- IG:rs_062207
+- LinkedIn-Dusi Venkata Ramcharan 
 
-<!---
-Ramcharan2067/Ramcharan2067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: ... welcome to my profile😂
+
+
